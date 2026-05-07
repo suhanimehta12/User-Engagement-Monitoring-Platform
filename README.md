@@ -5,7 +5,7 @@ A production-ready analytics dashboard built with Streamlit, Chart.js, Tailwind 
 🚀 Live Demo
 
 👉 Try it here:
-https://your-app-name.streamlit.app
+https://user-engagement-monitoring-platform-xshdgbhagkcnmtnqrzj8m3.streamlit.app/
 
 📸 Preview
 📊 Dashboard Overview
